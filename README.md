@@ -20,8 +20,8 @@ This Power BI dashboard project visualizes key operational and performance metri
 
 ## 📁 Files
 
-- `mom_task.pbix` – Power BI report
-- `MOCK_DATA.csv` – Source data
+- `Sales.pbix` – Power BI report
+- `Data.csv` – Source data
 - `screenshots/` – Optional visual previews
 
 ## 📌 How to Use
