@@ -1,6 +1,5 @@
 # Monthly-Sales-Dashboard
 Developed an interactive Power BI dashboard analyzing monthly performance trends using custom KPIs, DAX, and slicers. Delivered actionable insights from raw CSV data to support strategic business decisions.
-# Power BI – Monthly Operational Metrics Dashboard
 
 This Power BI dashboard project visualizes key operational and performance metrics on a monthly basis. Using mock business data, the report provides insights for decision-makers through clean, interactive visuals.
 
